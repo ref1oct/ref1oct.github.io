@@ -48,7 +48,7 @@
   background: #B3D9FF;
 }
 #menu-wrap a.trigger, #menu-wrap a.trigger:hover, #menu-wrap a.trigger:visited {
-  background-image: url(../img/cms-nav-dark-s.gif);
+  background-image: url(../img/cms-nav-dark-s.gif.html);
   background-repeat: no-repeat;
   background-position: right center;
 }
